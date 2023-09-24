@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SmartCab/static/css/main.9aa88931.css",
-    "main.js": "/SmartCab/static/js/main.88b50a15.js",
+    "main.js": "/SmartCab/static/js/main.da260cc5.js",
     "static/js/787.3f3275e8.chunk.js": "/SmartCab/static/js/787.3f3275e8.chunk.js",
     "static/media/long-s7.jpg": "/SmartCab/static/media/long-s7.2a1d1e391ebfa3b74b24.jpg",
     "static/media/s4.jpg": "/SmartCab/static/media/s4.bb692f9555fc5a545547.jpg",
@@ -40,11 +40,11 @@
     "static/media/revicons.woff": "/SmartCab/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/SmartCab/index.html",
     "main.9aa88931.css.map": "/SmartCab/static/css/main.9aa88931.css.map",
-    "main.88b50a15.js.map": "/SmartCab/static/js/main.88b50a15.js.map",
+    "main.da260cc5.js.map": "/SmartCab/static/js/main.da260cc5.js.map",
     "787.3f3275e8.chunk.js.map": "/SmartCab/static/js/787.3f3275e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9aa88931.css",
-    "static/js/main.88b50a15.js"
+    "static/js/main.da260cc5.js"
   ]
 }
